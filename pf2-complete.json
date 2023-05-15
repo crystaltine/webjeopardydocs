@@ -3,7 +3,7 @@
     "description": "Check for Understanding - U4 Consultation",
     "content": [
         {
-            "colName": "Health Insurance Premiums",
+            "colName": "Premiums",
             "colItems": [
                 {
                     "score": "100",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "colName": "Types of Health Insurance Plans",
+            "colName": "Plan Types",
             "colItems": [
                 {
                     "score": "100",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "colName": "Providers, Programs, and Regulations",
+            "colName": "Providers and Programs",
             "colItems": [
                 {
                     "score": "100",
