@@ -35,15 +35,15 @@
                     "visited": false 
                 },
                 {
-                    "score": "500",
-                    "question": "Which type of health insurance plan allows you to see any provider in or out of network, but pays more for in-network providers?",
-                    "answer": "PPO (Preferred provider organization) Plan",
-                    "visited": false
-                },
-                {
                     "score": "300",
                     "question": "What type of health insurance plan combines a high-deductible plan with a savings account that you can use for qualified medical expenses?",
                     "answer": "HSA (Health Savings Account) Plan",
+                    "visited": false
+                },
+                {
+                    "score": "500",
+                    "question": "Which type of health insurance plan allows you to see any provider in or out of network, but pays more for in-network providers?",
+                    "answer": "PPO (Preferred provider organization) Plan",
                     "visited": false
                 }
             ]
