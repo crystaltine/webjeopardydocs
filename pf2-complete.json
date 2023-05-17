@@ -1,6 +1,7 @@
 {
     "title": "PF2 Health Insurance",
     "description": "Check for Understanding - U4 Consultation",
+    "background": "https://hogridr.github.io/webjeopardydocs/pf2-jeopardy-bgpic.png",
     "content": [
         {
             "colName": "Premiums",
