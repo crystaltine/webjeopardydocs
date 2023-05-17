@@ -1,6 +1,6 @@
 {
-    "title": "PF2 Template",
-    "description": "A template for the project. Add questions/answers.",
+    "title": "Webjeopardy2 Template",
+    "description": "A generic template for the Webjeopardy2.",
     "content": [
         {
             "colName": "Topic 1",
