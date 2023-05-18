@@ -4,7 +4,7 @@
     "background": "https://hogridr.github.io/webjeopardydocs/pf2-jeopardy-bgpic.png",
     "content": [
         {
-            "colName": "Premiums",
+            "colName": "Premiums/Deductibles",
             "colItems": [
                 {
                     "score": "100",
@@ -20,8 +20,8 @@
                 },
                 {
                     "score": "500",
-                    "question": "What tax credit helps eligible individuals and families pay for health insurance purchased through the Health Insurance Marketplace?",
-                    "answer": "Premium Tax Credit",
+                    "question": "A policy has a premium of $300/mo. and a deductible of $3,000. What's the lowest reasonable monthly premium, offered by the same provider, for a policy with a deductible of $3,500?",
+                    "answer": "Anything below $300. Lower premium >>> Higher deductible and vice versa.",
                     "visited": false
                 }
             ]
@@ -43,7 +43,7 @@
                 },
                 {
                     "score": "500",
-                    "question": "Which type of health insurance plan allows you to see any provider in or out of network, but pays more for in-network providers?",
+                    "question": "Name a type of health insurance plan that covers any provider in or out of network, but pays more for in-network providers?",
                     "answer": "PPO (Preferred provider organization) Plan",
                     "visited": false
                 }
@@ -112,8 +112,8 @@
                 },
                 {
                     "score": "500",
-                    "question": "Give a brief summary of Obamacare.",
-                    "answer": "Obamacare, or the Affordable Care Act, is a federal law that requires all Americans to have health insurance. It also provides subsidies to help people pay for health insurance.",
+                    "question": "Give a brief summary of Obamacare/Affordable Care Act.",
+                    "answer": "Obamacare, or the Affordable Care Act, was a federal law that required all Americans to have health insurance. It also provided subsidies to help people pay for it.",
                     "visited": false
                 }
             ]
